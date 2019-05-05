@@ -22,7 +22,7 @@ module.exports = ctx => ({
   ],
   theme: '@vuepress/vue',
   themeConfig: {
-    repo: 'MrHooge/iHooge-sBigFrontEnd',
+    repo: 'MrHooge/qydocs',
     editLinks: true,
     docsDir: '/docs',
     logo: '/logo.png',

@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:MrHooge/iHooge-sBigFrontEnd.git"
+    "url": "git+https://github.com/MrHooge/qydocs.git"
   },
   "keywords": [
     "documentation",
@@ -21,9 +21,9 @@
   "author": "iHooge",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MrHooge/iHooge-sBigFrontEnd/issues"
+    "url": "https://github.com/MrHooge/qydocs/issues"
   },
-  "homepage": "https://github.com/MrHooge/iHooge-sBigFrontEnd",
+  "homepage": "https://github.com/MrHooge/qydocs",
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.0-alpha.47",
     "@vuepress/plugin-google-analytics": "^1.0.0-alpha.47",
